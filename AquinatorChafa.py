@@ -4,19 +4,19 @@ import os                                                                       
 
 yaml = YAML()
 
-with open("E1/preguntas.yaml", "r") as archivo_preguntas:                                       # Cargar las preguntas desde el archivo YAML
+with open("preguntas.yaml", "r") as archivo_preguntas:                                       # Cargar las preguntas desde el archivo YAML
     preguntas = yaml.load(archivo_preguntas)["Preguntas"]
-with open("E1/emojis.yaml", "r", encoding="utf-8") as archivo_animales_emojis:                  # Cargar los emojis de animales desde el archivo YAML
+with open("emojis.yaml", "r", encoding="utf-8") as archivo_animales_emojis:                  # Cargar los emojis de animales desde el archivo YAML
     animales_emojis = yaml.load(archivo_animales_emojis)["Animales"]
 
 emojis = {animal["nombre"]: animal["emoji"] for animal in animales_emojis}                      # Convertir la lista de animales a un diccionario para facilitar la búsqueda por nombre
 
-if not os.path.exists("E1/animales.json"):                                                      # Verificar si existe el archivo animales.json
+if not os.path.exists("animales.json"):                                                      # Verificar si existe el archivo animales.json
     animales_vacios = {"Animales": []}                                                          # Si no existe, lo crea con una estructura vacía
-    with open("E1/animales.json", "w") as archivo_animales:
+    with open("animales.json", "w") as archivo_animales:
         json.dump(animales_vacios, archivo_animales, indent=2)
 
-with open("E1/animales.json", "r") as archivo_animales:                                         # Cargar los animales del archivo JSON
+with open("animales.json", "r") as archivo_animales:                                         # Cargar los animales del archivo JSON
     animales = json.load(archivo_animales)["Animales"]
 
 def filtrar_animales(animales, propiedad, respuesta):                                           # Función para filtrar los animales en base a la respuesta del usuario
@@ -61,7 +61,7 @@ def agregar_animal(respuestas_anteriores):                                      
     nuevo_animal["Calificacion"] = calificacion
 
     animales.append(nuevo_animal)                                                               # Añadir el nuevo animal a la lista de animales y guardarlo en el archivo
-    with open("E1/animales.json", "w") as archivo_animales:
+    with open("animales.json", "w") as archivo_animales:
         json.dump({"Animales": animales}, archivo_animales, indent=2)
     print(f"\nAnimal: {nombre_animal} {emoji_animal} agregado.")
 
