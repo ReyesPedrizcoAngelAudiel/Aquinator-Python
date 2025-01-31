@@ -4,7 +4,6 @@
 
 #### 🤖 | Visualización de codigo funcionando
 > ![Gif del codigo](/AquinatorChafa.png)
-> ![Gif del codigo](/Gif-AdivinaAnimal.gif)
 
 #### 🚀 | Tecnologías y Conceptos Aprendidos
 > - **Python:** 
