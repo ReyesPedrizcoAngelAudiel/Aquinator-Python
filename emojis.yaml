@@ -1,0 +1,123 @@
+Animales:
+  - nombre: perro
+    emoji: "🐕"
+  - nombre: gato
+    emoji: "🐈"
+  - nombre: leon
+    emoji: "🦁"
+  - nombre: tigre
+    emoji: "🐅"
+  - nombre: elefante
+    emoji: "🐘"
+  - nombre: caballo
+    emoji: "🐎"
+  - nombre: vaca
+    emoji: "🐄"
+  - nombre: cerdo
+    emoji: "🐖"
+  - nombre: oveja
+    emoji: "🐑"
+  - nombre: cabra
+    emoji: "🐐"
+  - nombre: mono
+    emoji: "🐒"
+  - nombre: conejo
+    emoji: "🐇"
+  - nombre: oso
+    emoji: "🐻"
+  - nombre: panda
+    emoji: "🐼"
+  - nombre: koala
+    emoji: "🐨"
+  - nombre: raton
+    emoji: "🐁"
+  - nombre: pajaro
+    emoji: "🐦"
+  - nombre: aguila
+    emoji: "🦅"
+  - nombre: buho
+    emoji: "🦉"
+  - nombre: pato
+    emoji: "🦆"
+  - nombre: pavo
+    emoji: "🦃"
+  - nombre: flamenco
+    emoji: "🦩"
+  - nombre: delfin
+    emoji: "🐬"
+  - nombre: tiburon
+    emoji: "🦈"
+  - nombre: ballena
+    emoji: "🐳"
+  - nombre: pez
+    emoji: "🐟"
+  - nombre: tortuga
+    emoji: "🐢"
+  - nombre: cocodrilo
+    emoji: "🐊"
+  - nombre: serpiente
+    emoji: "🐍"
+  - nombre: rana
+    emoji: "🐸"
+  - nombre: camello
+    emoji: "🐫"
+  - nombre: canguro
+    emoji: "🦘"
+  - nombre: lobo
+    emoji: "🐺"
+  - nombre: zorro
+    emoji: "🦊"
+  - nombre: pulpo
+    emoji: "🐙"
+  - nombre: pingüino
+    emoji: "🐧"
+  - nombre: medusa
+    emoji: "🪼"
+  - nombre: alce
+    emoji: "🦌"
+  - nombre: cangrejo
+    emoji: "🦀"
+  - nombre: langosta
+    emoji: "🦞"
+  - nombre: abeja
+    emoji: "🐝"
+  - nombre: mariposa
+    emoji: "🦋"
+  - nombre: araña
+    emoji: "🕷️"
+  - nombre: escorpion
+    emoji: "🦂"
+  - nombre: hormiga
+    emoji: "🐜"
+  - nombre: caracol
+    emoji: "🐌"
+  - nombre: camaleon
+    emoji: "🦎"
+  - nombre: erizo
+    emoji: "🦔"
+  - nombre: perezoso
+    emoji: "🦥"
+  - nombre: ardilla
+    emoji: "🐿️"
+  - nombre: nutria
+    emoji: "🦦"
+  - nombre: castor
+    emoji: "🦫"
+  - nombre: rinoceronte
+    emoji: "🦏"
+  - nombre: jirafa
+    emoji: "🦒"
+  - nombre: hipopotamo
+    emoji: "🦛"
+  - nombre: puma
+    emoji: "🐆"
+  - nombre: jaguar
+    emoji: "🐆"
+  - nombre: buitre
+    emoji: "🦅"
+  - nombre: halcon
+    emoji: "🦅"
+  - nombre: loro
+    emoji: "🦜"
+  - nombre: avestruz
+    emoji: "🦢"

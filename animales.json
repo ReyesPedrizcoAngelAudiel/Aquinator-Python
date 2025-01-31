@@ -1,0 +1,40 @@
+{
+  "Animales": [
+    {
+      "Nombre": "conejo \ud83d\udc07",
+      "Terrestre": true,
+      "Acuatico": false,
+      "Cuadrupedo": true,
+      "Oviparo": false,
+      "Domestico": true,
+      "Dientes": true,
+      "Pelo": true,
+      "Grande": false,
+      "Calificacion": 174
+    },
+    {
+      "Nombre": "perro \ud83d\udc15",
+      "Terrestre": true,
+      "Acuatico": false,
+      "Cuadrupedo": true,
+      "Oviparo": false,
+      "Domestico": true,
+      "Dientes": true,
+      "Pelo": true,
+      "Grande": false,
+      "Calificacion": 174
+    },
+    {
+      "Nombre": "ballena \ud83d\udc33",
+      "Terrestre": false,
+      "Acuatico": true,
+      "Cuadrupedo": false,
+      "Oviparo": false,
+      "Domestico": false,
+      "Dientes": true,
+      "Pelo": false,
+      "Grande": true,
+      "Calificacion": 69
+    }
+  ]
+}

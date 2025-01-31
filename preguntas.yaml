@@ -1,0 +1,25 @@
+Preguntas:
+- Pregunta: Es un animal terrestre?
+  Atributo: Terrestre
+  Valor: 128
+- Pregunta: Es un animal acuatico?
+  Atributo: Acuatico
+  Valor: 64
+- Pregunta: Tiene cuatro patas?
+  Atributo: Cuadrupedo
+  Valor: 32
+- Pregunta: Es oviparo (pone huevos)?
+  Atributo: Oviparo
+  Valor: 16
+- Pregunta: Es un animal domestico?
+  Atributo: Domestico
+  Valor: 8
+- Pregunta: Tiene dientes?
+  Atributo: Dientes
+  Valor: 4
+- Pregunta: Tiene pelo?
+  Atributo: Pelo
+  Valor: 2
+- Pregunta: Es un animal grande?
+  Atributo: Grande
+  Valor: 1
