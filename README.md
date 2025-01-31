@@ -3,7 +3,8 @@
 > Este es un proyecto simple en Python que utiliza preguntas de sí o no para tratar de adivinar en qué animal está pensando el usuario. Si el programa no conoce el animal, permite agregarlo a su base de datos para mejorar en futuras interacciones.
 
 #### 🤖 | Visualización de codigo funcionando
-> ![Gif del codigo](/AquinatorChafa.png) ![Gif del codigo](/Gif-AdivinaAnimal.gif)
+> ![Gif del codigo](/AquinatorChafa.png)
+> ![Gif del codigo](/Gif-AdivinaAnimal.gif)
 
 #### 🚀 | Tecnologías y Conceptos Aprendidos
 > - **Python:** 
